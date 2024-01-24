@@ -3,7 +3,6 @@
 # on "A Study in Scarlet" and "The Hound of the Baskervilles"
 # by Sir Arthur Conan Doyle.
 # AUTHOR: LEIKA YAMADA
-# DATE: 8/15/2021
 
 # Import the markov model
 import re
