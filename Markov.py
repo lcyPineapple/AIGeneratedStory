@@ -2,7 +2,6 @@
 # generate a AI created story. The model uses
 # by Sir Arthur Conan Doyle.
 # AUTHOR: LEIKA YAMADA
-# DATE: 8/15/2021
 
 from random import randint
 import math
